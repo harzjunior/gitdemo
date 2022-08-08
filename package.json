@@ -1,0 +1,16 @@
+{
+  "name": "gitlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imp.js",
+  "type": "module",
+
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
